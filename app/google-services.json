@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "786324823799",
+    "firebase_url": "https://my-project-1521176594761.firebaseio.com",
+    "project_id": "my-project-1521176594761",
+    "storage_bucket": "my-project-1521176594761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786324823799:android:a2bd19bd8f103ce6",
+        "android_client_info": {
+          "package_name": "com.fromscratch.firebase_test_authentication_realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786324823799-2qug7b1fvlsib3mngk8998c199e50ao9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9OqsDApnNA-iIFsyTiroM6SPkK_0sAzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
